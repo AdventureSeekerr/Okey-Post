@@ -1,3 +1,3 @@
 # Okey-Post
 
-https://adventureseekerr.github.io/Okey-Post/dist/index.html
+https://adventureseekerr.github.io/Okey-Post/src/index.html
